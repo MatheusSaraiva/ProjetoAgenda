@@ -1,0 +1,16 @@
+.env
+.python-version
+*.xls
+*.xlsx
+*.ipynb
+*.db
+*.zip
+*pyc
+sascfg_personal.py*
+.idea/
+.venv/
+__pycache__/
+log/
+old/
+venv/ 
+__pycache__/ 
