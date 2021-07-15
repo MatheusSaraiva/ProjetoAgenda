@@ -41,6 +41,10 @@ $ git clone -b master https://github.com/MatheusSaraiva/ProjetoAgenda.git
 
 # Para instalar as dependências "requirements.txt"
 $ pip install -r requirements.txt
+
+# executar o projeto
+$ python manage.py runserver
+
 ```
 
 # Autor
