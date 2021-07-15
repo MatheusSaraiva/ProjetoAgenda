@@ -31,6 +31,17 @@ ProjetoAgenda é uma aplicação full stack web construída para guardar os cont
 - JS
 - bootstrap
 
+# Como executar o projeto
+
+Pré-requisitos: Python 3
+
+```bash
+# clonar repositório
+$ git clone -b master https://github.com/MatheusSaraiva/ProjetoAgenda.git
+
+# Para instalar as dependências "requirements.txt"
+$ pip install -r requirements.txt
+```
 
 # Autor
 
